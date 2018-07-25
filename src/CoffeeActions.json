@@ -1,0 +1,28 @@
+{
+    "coffee_actions": [
+      {
+        "id": 1,
+        "text": "Coffee Light",
+        "url": "http://localhost:9000/v1/coffee/action",
+        "action": "COFFEE_LIGHT"
+      },
+      {
+        "id": 2,
+        "text": "Coffee Dark",
+        "url": "http://localhost:9000/v1/coffee/action",
+        "action": "COFFEE_STRONG"
+      },
+      {
+        "id": 3,
+        "text": "Service",
+        "url": "http://localhost:9000/v1/coffee/action",
+        "action": "SERVICE"
+      },
+      {
+        "id": 4,
+        "text": "Turn ON/OFF",
+        "url": "http://localhost:9000/v1/coffee/action",
+        "action": "TURN_ON_OFF"
+      }
+    ]
+  }
